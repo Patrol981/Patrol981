@@ -2,8 +2,8 @@
 
 ## I'm software / web dev interested in:
 🛠 Computer Graphics (Vulkan, OpenGL, ThreeJS, Unity3D) \
-💾 Low Level Programming (C) \
-🖥 Creating Web Applications (React, Vue) \
+💾 Low Level Programming (C, C#) \
+🖥 Creating Web Applications (Svelte, Vue, React) \
 ⚙ Creating Backend Servers (C#, TS) 
 
 ### Currently working as:
