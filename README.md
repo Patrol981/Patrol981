@@ -12,7 +12,7 @@
 - Working on Vulkan based Game Engine
 
 ###
-For more info check out [here](https://patrol981.github.io/pmarkowski/)
+For more info check out [here](https://patrykmarkowski.dev/)
 
 <!---
 Patrol981/Patrol981 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
