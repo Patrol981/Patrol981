@@ -9,6 +9,7 @@
 
 ### Currently working as:
 - Unity Dev
+- Fullstack .NET / Angular
 - Working on Vulkan based Game Engine
 
 ###
