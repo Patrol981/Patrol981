@@ -1,11 +1,11 @@
 # 👋 Hi, Patrick here
 
 ## I'm software / web dev interested in:
-🛠 Computer Graphics (Vulkan, OpenGL, ThreeJS, Unity3D) \
-📱 Mobile Development (.NET MAUI) \
+🛠 Computer Graphics (Vulkan, Metal, OpenGL, WebGPU) \
+📱 Mobile Development (React Native, Tauri) \
 💾 Memory Related Programming (C, C#) \
-🖥 Creating Web Applications (Svelte, Vue, React) \
-⚙ Creating Backend Servers (C#, TS) 
+🖥 Creating Web Applications (Nuxt, Angular) \
+⚙ Creating Backend Servers (.NET, Hono) 
 
 ### Currently working as:
 - Unity Dev
